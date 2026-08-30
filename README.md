@@ -1,4 +1,4 @@
-# Hi there, I'm Devendra Kumar Gupta 👋
+# Hi there, I'm Devendra Kumar 👋
 
 🎓 **B.Tech CSE Undergrad (3rd Semester) @ Lovely Professional University**  
 Focused on core computer science foundations, clean code, and building scalable software solutions.
